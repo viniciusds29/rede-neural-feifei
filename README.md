@@ -3,7 +3,7 @@
 Reprodução e explicação da rede neural dos slides 30–34 da Lecture 4 de
 Fei-Fei Li, Yunzhu Li e Ruohan Gao (Stanford CS231n, 2023).
 
-## Autores
+## Alunos
 
 - Vinicius Oliveira de Souza
 - Ana Soraia Barroso Silva
